@@ -16,12 +16,8 @@ Pasos a seguir:
 * Se debe hacer un git submodule init y un git submodule update en la raiz del proyecto
 * Podemos empezar a crearnos nuestras trasparencias
 * Para poder ver cómo va quedando, podemos montar un servidor en local
-* Instalar node.js
-* Instalar Grunt
-* Nos vamos a la carpeta reveal.js
-* Hacemos un npm install
-* Por último un grunt serve
-* Todos los cambios que vayamos haciendo se verán en http://localhost:8000/
+* Nos creamos un enlace simbólico en /var/www con el comando ln -s carpeta_origen destino
+* Todos los cambios que vayamos haciendo se verán en http://localhost/destino
 * Hay otra forma de hacerlo y es a través del editor online slid.es
 * Creamos trasparencias con el estilo más sencillo posible
 * Exportamos el código HTML y lo insertamos en nuestro index.html
