@@ -8,6 +8,9 @@ Pasos a seguir:
 * Creamos usuario en GitHub
 * Creamos proyecto en Github
 * Creamos GitHub Pages
+* Desde la carpeta principal del proyecto hacemos un "git fetch origin"
+* Cambiamos de rama con git checkout gh-pages
+* Comenzamos a crear las trasparencias
 
 Slides on:
 
