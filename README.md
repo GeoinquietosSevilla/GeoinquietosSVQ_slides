@@ -22,6 +22,6 @@ Pasos a seguir:
 * Creamos trasparencias con el estilo más sencillo posible
 * Exportamos el código HTML y lo insertamos en nuestro index.html
 
-Slides on:
+Las diapositivas las puedes encontrar en:
 
-http://moiarcsan.github.io/GeoinquietosSVQ_slides/
+http://geoinquietossevilla.github.io/GeoinquietosSVQ_slides
