@@ -11,6 +11,8 @@ Pasos a seguir:
 * Desde la carpeta principal del proyecto hacemos un "git fetch origin"
 * Cambiamos de rama con git checkout gh-pages
 * Comenzamos a crear las trasparencias
+* Nos creamos el submodulo de reveal.js con git submodule add git@github.com:hakimel/reveal.js.git revealjs
+* Podemos empezar a crearnos nuestras trasparencias
 
 Slides on:
 
