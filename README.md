@@ -21,6 +21,7 @@ Pasos a seguir:
 * Hay otra forma de hacerlo y es a través del editor online slid.es
 * Creamos trasparencias con el estilo más sencillo posible
 * Exportamos el código HTML y lo insertamos en nuestro index.html
+* Hacer siempre pull request
 
 Slides on:
 
